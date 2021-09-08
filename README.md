@@ -18,9 +18,9 @@
 
 ### App Screenshots:
 
-![Dashboard]
+![Dashboard](https://github.com/Nitin2806/JSONPowerDB_project/blob/master/Pictures/dashboard.JPG)
 
-![Index Page]
+![Index Page](https://github.com/Nitin2806/JSONPowerDB_project/blob/master/Pictures/Home.JPG)
 
-![Visualize]
+![Visualize](https://github.com/Nitin2806/JSONPowerDB_project/blob/master/Pictures/visualize.JPG)
 
